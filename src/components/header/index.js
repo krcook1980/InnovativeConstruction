@@ -13,9 +13,9 @@ export default function index() {
 
                         <SlideRight />
                         <hr/>
-                        <div class="mt-2">
-                            <p class="lead ">General Contractor</p>
-                            <p class="text-muted ">Licensed and Insured</p>
+                        <div className="mt-2 words">
+                            <p className="lead ">General Contractor</p>
+                            <p className="text-muted words ">Licensed and Insured</p>
                         </div>
                         <hr/>
                     </Col>
