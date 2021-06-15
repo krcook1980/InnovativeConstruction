@@ -1,4 +1,4 @@
 # InnovativeConstruction
 [Viewable Webpage](http://innovativeconst.net/)
 
-Contractor requested simple page for business in Park City and Wyoming. Pending assets and content for more stunning layout.
+Local excavation contractor requested a website for his new business in Park City UT and Star Valley Wyoming. Used React and react bootstrap to build the site.
