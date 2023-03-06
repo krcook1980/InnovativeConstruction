@@ -1,13 +1,15 @@
 import './App.css';
-import Gallery from './components/gallery';
+
 import Header from './components/header';
 import Main from './components/main';
+import Footer from './components/footer'
 
 function App() {
   return (
     <>
       <Header />
-      <Main />      
+      <Main />  
+      <Footer />    
     </>
   );
 }

@@ -9,7 +9,7 @@ export default function ImageCard({ heading, image }) {
    const newImage = (currentImage < image.length-1) ? currentImage + 1 : 0
    setCurrentImage(newImage)
   }
-  console.log(image[currentImage])
+
  return (
     <div className='card'>
       <p className='cardHeading'>{heading}</p>
