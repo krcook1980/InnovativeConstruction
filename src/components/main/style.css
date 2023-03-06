@@ -1,14 +1,66 @@
-@import url('https://fonts.googleapis.com/css2?family=Unica+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:wght@300&family=Lato:ital,wght@0,400;1,300&display=swap');
 
-.headings {
-    font-family: 'Unica One', cursive;
-    color: #9B6438;
+.page {
+  padding: 20px 0px;
+  font-family: 'Inria Sans', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.btn {
-    background-color: #9B6438;
-    }
+.title {
+  display: flex;
+  justify-content: column;
+  align-items: center;
+  color: #9b6438;
+}
 
-.words{
-    color: #794e2b
-}    
+.heading {
+  color: #301f10;
+  margin: 15px 0;
+  text-decoration: underline;
+}
+
+.subText{
+  font-size: 20px;
+}
+.bodyText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1050px;
+  font-size: 22px;
+}
+
+.text {
+  margin-bottom: 16px;
+}
+
+.services {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: fit-content;
+  background-image: linear-gradient(#9b6438, #f3e6d3);
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-top: 10px;
+}
+
+.footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+}
+.button {
+  background-color: #5e8eeb;
+  padding: 3px 20px;
+  border-radius: 10px;
+  box-shadow: 3px 5px 3px #969696aa;
+  color: white;
+}
+
+.center{
+ text-align: center;
+}

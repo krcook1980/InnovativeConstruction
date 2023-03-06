@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {slideInRight} from "react-animations";
 import styled, {keyframes} from 'styled-components';
-import Logo from '../../assets/website_logo_transparent_background.png';
+import Logo from '../../assets/FullColorLogo.svg';
 import './style.css'
 
 const SlideInRight = styled.div`animation: 3s ${keyframes  `${slideInRight}`}`;

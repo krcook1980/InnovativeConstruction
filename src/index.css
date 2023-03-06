@@ -7,7 +7,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url(https://github.com/krcook1980/InnovativeConstruction/blob/main/src/assets/background.jpg?raw=true)
+ background-color: #f3e6d3;
+ height: 100%;
+ overflow-y: auto;
 }
 
 code {
@@ -15,5 +17,9 @@ code {
     monospace;
 }
 
+p {
+  margin: 0;
+  padding: 0;
+}
 
 

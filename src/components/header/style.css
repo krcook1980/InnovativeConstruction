@@ -1,7 +1,14 @@
-.jumbotron {
-    background-color: transparent;
-}
-.words{
-    color: #794e2b;
-   
-}  
+.header {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 120px;
+    background-color: #9b6438;
+    margin-top: 20px;
+} 
+
+.logo{
+    width: 700px;
+    height: 350px;
+    margin-top: -115px;
+    }
